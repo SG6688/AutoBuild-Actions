@@ -3,7 +3,7 @@
 # AutoBuild DiyScript
 
 Diy_Core() {
-	Author=Hyy2001
+	Author=SG6688
 	Short_Firmware_Date=true
 	Default_LAN_IP=192.168.99.1
 
